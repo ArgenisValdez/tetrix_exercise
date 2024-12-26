@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+canvas{
+    border: 2px solid white;
+}
+
+#info{
+    color: white;
+    margin-left: 20px;
+}
+
+p{
+    margin: 0;
+    font-size: 1.2rem;
+}
